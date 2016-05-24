@@ -19,6 +19,7 @@ You will need the following things properly installed on your computer.
 * change into the new directory
 * `npm install`
 * `bower install`
+* `npm i -g ember-cli@2.3.0-beta.1`
 
 ## Running / Development
 
